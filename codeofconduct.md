@@ -40,7 +40,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Channel operators will be happy to help participants through direct intervention, contacting local law enforcement, or by otherwise assisting those experiencing harassment to feel safe. We value your active participation in the community.
 
-We expect participants to follow these rules at all times, on and offline, with everyone involved in the channel. Harassment of our colleagues outside of #vandevops will not be simply ignored.
+We expect participants to follow these rules at all times, on and offline, with everyone involved in the channel. Harassment of our colleagues outside of DevOpsChat will not be simply ignored.
 
 #Recruiters, Sales, and other Promoters
 
