@@ -14,7 +14,15 @@ More than just a guideline, all participants in our channel are required to agre
 
 #Need Help?
 
-Contact one of the channel operators. Our policy is not to lurk with our badges on, but you can message smayzes for help/
+Contact one of the channel operators. Our policy is not to lurk with our badges on, but you can message the admins: 
+ 
+* smayzes
+* epic_fil
+* fideloper
+* gerred
+* jaredwilliams
+* nicholeoushelp
+* ryanmaclean
 
 #The Quick Version
 
